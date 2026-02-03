@@ -1,0 +1,10 @@
+
+{
+  "name": "Buddy - Your Personal AI Companion",
+  "description": "A comprehensive AI-powered assistant that helps with coding, planning, teaching, and more, featuring long-term memory and deep personalization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
